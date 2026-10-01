@@ -18,3 +18,27 @@ no son lo mismo, GitHub es donde se encuentran los repositorios de la nube
 
 7. ¿Por qué es importante utilizar mensajes de commit descriptivos?
 para saber que archivos se modifican y el que se modifica de estos
+
+8. ¿Qué es un repositorio remoto?
+Un repositorio en la nube
+
+9. ¿Qué significa origin?
+el origen de donde sale el archivo
+
+10. ¿Para qué sirve git push?
+para actualizar el repositorio remoto
+
+11. ¿Para qué sirve git pull?
+para actualizar nuestro repositorio local
+
+12. ¿Qué hace git clone?
+clonar el repositorio remoto
+
+13. ¿Por qué un commit no aparece automáticamente en GitHub?
+por que después hay que pushear para actlualizar los cambios
+
+14. ¿Qué ocurre con git pull después de que otra persona suba cambios?
+que nos descargamos los cambios de la otra persona
+ 
+15. Explica el flujo: editar → add → commit → push → pull.
+editamos el archivos, después los preparamos para subirlo, con el commit guardamos los cambios, con el push actualizamos el repositorio remoto con nuestros cambios y con el pull actualizamos nuestro repositorio 
